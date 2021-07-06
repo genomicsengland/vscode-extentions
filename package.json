@@ -1,0 +1,29 @@
+{
+    "name": "gel-extensions",
+    "publisher": "GEL",
+    "displayName": "gel-extensions",
+    "description": "Extension Pack used by Reseach Team",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "broadinstitute.wdl", 
+        "broadinstitute.wdl-devtools", 
+        "DanielLin.auto-header", 
+        "eriklynd.json-tools", 
+        "Mikhail-Arkhipov.r", 
+        "ms-azuretools.vscode-docker", 
+        "ms-pyright.pyright", 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter", 
+        "ms-vscode.cpptools", 
+        "onnovalkering.vscode-singularity", 
+        "shakram02.bash-beautify", 
+        "vscodevim.vim"
+    ]
+}
